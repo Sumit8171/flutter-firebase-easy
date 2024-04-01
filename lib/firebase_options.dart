@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA7iDyCg8JICeQEUvY2vjUS0vlOpX_Y55A',
+    apiKey: 'web app api key',
     appId: '1:734962813868:web:0a810d3e1ea3866be54809',
     messagingSenderId: '734962813868',
     projectId: 'mystic-treat-402803',
@@ -56,7 +56,7 @@ class DefaultFirebaseOptions {
 
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCkSvNyFnr7yR9H6AOdIDxZkSnA0nRJPc4',
+    apiKey: 'api key from google-services.json file for android',
     appId: '1:734962813868:android:c74bec064ad8ddd1e54809',
     messagingSenderId: '734962813868',
     projectId: 'mystic-treat-402803',
@@ -65,7 +65,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyChgtw3WhXVseVmaTfQHpA_hWo0vUNhggM',
+    apiKey: 'api key of ios if wants',
     appId: '1:65028264946:ios:3a331dc06551764441d16b',
     messagingSenderId: '65028264946',
     projectId: 'agora-iot-farm',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyChgtw3WhXVseVmaTfQHpA_hWo0vUNhggM',
+    apiKey: 'api key of macos if wants',
     appId: '1:65028264946:ios:b348b05c704e441741d16b',
     messagingSenderId: '65028264946',
     projectId: 'agora-iot-farm',
