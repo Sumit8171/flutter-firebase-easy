@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+make sure to change your info with my info added in firebase_options.dart file in lib folder to connect your firebase account.
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
